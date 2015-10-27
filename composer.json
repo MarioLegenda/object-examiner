@@ -9,6 +9,7 @@
       "email": "mario@locastic.com"
     }
   ],
+  "version": "1.0.0",
 
   "require": {
   },

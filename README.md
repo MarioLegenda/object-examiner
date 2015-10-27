@@ -8,4 +8,4 @@ you can't find it.
 
 `ObjectExaminer::init()->examine($object);`
 
-That is it. It will `var_dump` objects methods and kill the script. 
+That is it. It will `var_dump` objects methods and kills the script. 
